@@ -1,0 +1,14 @@
+{
+  "name": "lampa-tizenbrew",
+  "appName": "Lampa",
+  "version": "1.0.0",
+  "description": "Loads the Lampa media center (lampa.mx) inside TizenBrew, unmodified.",
+  "packageType": "mods",
+  "websiteURL": "http://lampa.mx/",
+  "main": "main.js",
+  "author": "Artur Rozhinskiy",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/tuitewik/lampa-tizenbrew"
+  }
+}
